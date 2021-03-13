@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.pinimg.com/originals/e7/a3/3a/e7a33a0483b49379869a93bb7ed053f6.gif">
+<img src="https://i.imgur.com/88CMU4k.gif">
 <!--
 **karinazad/karinazad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
